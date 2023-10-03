@@ -62,8 +62,8 @@ if process_url_clicked:
         main_placeholder.text("Text Splitter...Started...✅✅✅")
         docs = text_splitter.split_documents(data)
 
-        # Generate embeddings for the split documents and store them in a FAISS index
-        embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
+        # create embeddings and save it to FAISS index
+        embeddings = OpenAIEmbeddings()
         vectorstore_openai = FAISS.from_documents(docs, embeddings)
         main_placeholder.text("Embedding Vector Started Building...✅✅✅")
         time.sleep(2)
