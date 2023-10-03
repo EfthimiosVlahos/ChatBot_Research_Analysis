@@ -3,7 +3,9 @@
 
 The News Research Tool encapsulates a rich, user-oriented platform crafted with the aim of streamlining the extraction and consumption of key insights, especially those dwelling within articles related to financial markets and varied economic zones.
 
-![Snapshot of the Application Interface](/Users/Vlahonator/Desktop/Resss/Snapshot_Streamlit_.jpeg)
+![Snapshot_Streamlit_](https://github.com/EfthimiosVlahos/ChatBot_Research_Analysis/assets/56899588/851ca8f9-246a-4782-ad0d-95adf6910684)
+
+
 
 ## Core Features
 
@@ -59,7 +61,7 @@ streamlit run main.py
 
 - The FAISS index will be saved in a local file path in pickle format for future use.
 - One can now ask a question and get the answer based on those news articles
-- In video tutorial, we used following news articles
+- I used following news articles
   - https://www.moneycontrol.com/news/business/tata-motors-mahindra-gain-certificates-for-production-linked-payouts-11281691.html
   - https://www.moneycontrol.com/news/business/tata-motors-launches-punch-icng-price-starts-at-rs-7-1-lakh-11098751.html
   - https://www.moneycontrol.com/news/business/stocks/buy-tata-motors-target-of-rs-743-kr-choksey-11080811.html
