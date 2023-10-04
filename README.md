@@ -1,4 +1,4 @@
-# End-to-End NLP Research Tool Project 🚀🗞️
+# End-to-End NLP Research Tool Project 
 
 A sophisticated NLP research tool, facilitating the intelligent querying of a multitude of news articles by transforming them into a structured and searchable knowledge base using LangChain, OpenAI, and Streamlit.
 
