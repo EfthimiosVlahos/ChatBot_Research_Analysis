@@ -1,5 +1,5 @@
 
-# News Research Tool: Enabling Informed Financial Insights
+# ChatBot Research Tool: Enabling Informed Financial Insights
 
 The News Research Tool encapsulates a rich, user-oriented platform crafted with the aim of streamlining the extraction and consumption of key insights, especially those dwelling within articles related to financial markets and varied economic zones.
 
